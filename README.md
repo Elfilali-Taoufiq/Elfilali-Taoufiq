@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elfilali-Taoufiq
-- 👀 I’m interested in Machine learning projects and NLP new techniques
+- 👀 I’m interested Data topics, including Machine learning projects and NLP new techniques
 - 🌱 I’m currently learning computer vision techniques to use them in solving some problems my current projects 
-- 💞️ I’m looking to collaborate on NLP challenges and competitions 
+- 💞️ I’m looking to collaborate on data challenges and competitions 
 
 
 <!---

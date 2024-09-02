@@ -31,9 +31,9 @@ Feel free to explore my repositories and reach out if you’re interested in col
 ## 📫 Contact
 
 You can reach me at:
-- **Email:** [your-email@example.com](elfilali-taoufiq@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/taoufiq-elfilali/)
-- **Twitter:** [@YourTwitterHandle](https://x.com/ElfilaliT)
+- **Email:** [elfilali-taoufiq@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/taoufiq-elfilali/]
+- **Twitter:** [@https://x.com/ElfilaliT](
 
 
 <!---

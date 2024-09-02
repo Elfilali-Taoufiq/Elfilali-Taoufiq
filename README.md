@@ -23,8 +23,7 @@ I’m eager to collaborate on:
 ## 📈 Projects & Contributions
 
 Here are a few highlights of my work:
-- **[Project Name](link):** Brief description of the project and technologies used.
-- **[Another Project](link):** What I accomplished and what tools or methods were applied.
+- **[TODO](link)
 
 Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing data-related topics!
 

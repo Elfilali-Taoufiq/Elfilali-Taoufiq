@@ -12,7 +12,7 @@ I’m deeply interested in various data-related topics, including:
 
 ## 🌱 Current Learning Focus
 
-I’m expanding my knowledge in **Computer Vision**. My goal is to leverage these techniques to tackle challenges in my ongoing projects and develop innovative solutions.
+I’m expanding my knowledge in **Data engineering/ Cloud **. Focus on AWS and its services to handle data challenges efficiently.
 
 ## 💞️ Collaboration
 
@@ -32,7 +32,7 @@ Feel free to explore my repositories and reach out if you’re interested in col
 You can reach me at:
 - **Email:** [elfilali-taoufiq@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/taoufiq-elfilali/]
-- **Twitter:** [@https://x.com/ElfilaliT](
+- **Twitter:** [@https://x.com/ElfilaliT]
 
 
 <!---

@@ -23,7 +23,7 @@ I’m eager to collaborate on:
 ## 📈 Projects & Contributions
 
 Here are a few highlights of my work:
-- **[TODO](link)
+- ** [TODO](link)
 
 Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing data-related topics!
 
@@ -32,7 +32,7 @@ Feel free to explore my repositories and reach out if you’re interested in col
 You can reach me at:
 - **Email:** [elfilali-taoufiq@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/taoufiq-elfilali/]
-- **Twitter:** [@https://x.com/ElfilaliT]
+- **Twitter:** [https://x.com/ElfilaliT]
 
 
 <!---

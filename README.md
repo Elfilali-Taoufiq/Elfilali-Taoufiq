@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about data science, machine learni
 ## 👀 Interests
 
 I’m deeply interested in various data-related topics, including:
-- **Daat engineering :** designing, building, and maintaining the infrastructure and tools needed to collect, process, and analyze large volumes of data efficiently.
+- **Data engineering :** designing, building, and maintaining the infrastructure and tools needed to collect, process, and analyze large volumes of data efficiently.
 - **Machine Learning:** Exploring algorithms and their applications.
 - **Natural Language Processing (NLP):** Implementing and understanding the latest techniques in NLP.
 - **Computer Vision:** Currently learning techniques to apply them in solving real-world problems.
